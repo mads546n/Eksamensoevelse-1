@@ -9,8 +9,6 @@ Opgavebeskrivelse:
 
     Beskriv koden med et flowchart og offentliggør den på et git repository.
     
-    
-    
     Opgavebeskrivelse: 
 2.  Skriv en funktion, som kan udregne summen af tallene i et array.
     F.eks. vil summen af [1, 2, 3] være 6.
