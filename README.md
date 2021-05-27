@@ -1,7 +1,8 @@
 # Eksamensoevelser 2021
 Løsning af eksamensspørgsmålene som øvelse til 2021 eksamen i programmering B. 
 
-Opgavebeskrivelse: 
+Opgavebeskrivelse:
+
 1.  Skriv en funktion, som kan svare på om en værdi findes i et array.
     F.eks. vil svaret på om 4 findes i [1, 2, 3] være false.
 
@@ -12,6 +13,7 @@ Opgavebeskrivelse:
 _________________________________________________________________________________________
     
 Opgavebeskrivelse: 
+
 2.  Skriv en funktion, som kan udregne summen af tallene i et array.
     F.eks. vil summen af [1, 2, 3] være 6.
 
@@ -22,6 +24,7 @@ Opgavebeskrivelse:
 _________________________________________________________________________________________
     
 Opgavebeskrivelse:
+
 3.  Skriv en funktion, som finde det højeste og det laveste tal i et array.
     F.eks. vil svaret på [1, 2, 3, 4, 5] være [1, 5].
 
