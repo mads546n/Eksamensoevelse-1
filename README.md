@@ -24,4 +24,3 @@ Opgavebeskrivelse:
     Vis hvordan funktionen kan gøres til en metode i en class.
 
     Beskriv koden med et flowchart og offentliggør den på et git repository.
-
