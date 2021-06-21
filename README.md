@@ -66,3 +66,37 @@ Opgavebeskrivelse:
     Beskriv koden med et flowchart og offentliggør den på et git repository.
 
 _________________________________________________________________________________________
+
+Opgavebeskrivelse: 
+
+
+13. Skriv en funktion, som kan bestemme om alle tallene i en række er ens.
+    F.eks. er tallene [1, 2, 3] ikke ens, hvorimod tallene i [1, 1, 1] er ens.
+
+    Vis hvordan funktionen kan gøres til en metode i en class.
+
+    Beskriv koden med et flowchart og offentliggør den på et git repository.
+
+_________________________________________________________________________________________
+
+Opgavebeskrivelse:
+
+19. Skriv en funktion, som kan tjekke om et bestemt ord findes i en tekst.
+    F.eks. tjek om teksten "Indeholder denne tekst ordet 'programmering'?" indeholer ordet "programmering".
+
+    Vis hvordan funktionen kan gøres til en metode i en class.
+
+    Beskriv koden med et flowchart og offentliggør den på et git repository.
+
+_________________________________________________________________________________________
+
+Opgavebeskrivelse:
+
+25. Skriv en funktion, som kan sortere et array af tal.
+    F.eks. kunne "[3, 5, 2, 1, 2]" blive til "[1, 2, 2, 3, 5]".
+
+    Vis hvordan funktionen kan gøres til en metode i en class.
+
+    Beskriv koden med et flowchart og offentliggør den på et git repository.
+
+_________________________________________________________________________________________
