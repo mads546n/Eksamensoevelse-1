@@ -33,3 +33,36 @@ Opgavebeskrivelse:
     Beskriv koden med et flowchart og offentliggør den på et git repository.
     
 _________________________________________________________________________________________
+
+Opgavebeskrivelse:
+
+4.  Skriv en funktion, som kan konkatitenere 2 rækker af tal.
+    F.eks. vil [1, 2, 3] og [4, 5, 6]. blive til [1, 2, 3, 4, 5, 6]
+
+    Vis hvordan funktionen kan gøres til en metode i en class.
+
+    Beskriv koden med et flowchart og offentliggør den på et git repository.
+
+_________________________________________________________________________________________
+
+Opgavebeskrivelse:
+
+5.  Skriv et funktion, som kan tjekke om et array er symmetrisk eller ej.
+    F.eks. er [1, 2, 2, 1] symmetrisk, hvorimod [1, 2, 3, 4] ikke er.
+
+    Vis hvordan funktionen kan gøres til en metode i en class.
+
+    Beskriv koden med et flowchart og offentliggør den på et git repository.
+
+_________________________________________________________________________________________
+
+Opgavebeskrivelse:
+
+6.  Skriv en funktion, som kan bestemme hyppigheden af hvert tal i et array.
+    F.eks. kunne "[0, 1, 1, 1, 2, 3, 3]" blive til "[[1, 0], [3, 1], [1, 2], [2, 3]]".
+
+    Vis hvordan funktionen kan gøres til en metode i en class.
+
+    Beskriv koden med et flowchart og offentliggør den på et git repository.
+
+_________________________________________________________________________________________
